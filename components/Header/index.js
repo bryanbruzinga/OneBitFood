@@ -2,7 +2,6 @@ import { Navbar } from "react-bootstrap";
 import Image from "next/image";
 import Link from "next/link";
 import SearchBox from "../SearchBox";
-import NavbarToggle from "react-bootstrap/esm/NavbarToggle";
 
 export default function Header() {
   return (
